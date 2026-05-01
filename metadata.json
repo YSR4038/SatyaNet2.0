@@ -1,0 +1,8 @@
+{
+  "name": "Satya Net",
+  "description": "Digital Forensics & Cyber Awareness platform. Detect deepfakes, analyze misinformation, and promote Digital Dharma.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

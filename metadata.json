@@ -1,0 +1,11 @@
+{
+  "name": "Satya-Net",
+  "description": "A high-performance digital forensic platform paired with ancient Vedic truth-verification ethics. Features include ELA image forensics, digital deepfake detectors, email header integrity checks, URL analysis, and DharmaBot guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
